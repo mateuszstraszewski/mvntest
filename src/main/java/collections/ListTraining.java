@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class CollectionsClass {
+public class ListTraining {
     public static void trainList() {
         String name1 = "John";
         String name2 = "Mark";
